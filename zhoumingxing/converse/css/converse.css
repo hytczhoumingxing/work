@@ -1,0 +1,32 @@
+*{margin: 0;padding: 0;}
+ul li{list-style: none;list-style-type: none;}
+
+
+.main{position: relative;width: 100%;overflow: hidden;filter: inherit;opacity: inherit;height: 660px;}
+h2{position: fixed;top: 27px;left: 27px;z-index: 83;}
+.main1{top: 0px;position: relative;overflow: hidden;z-index: 2;}
+.main1 img{width: 1366px;height: 845px;left: 0px;top: -375px;overflow: hidden;}
+.maina{position: absolute;width: 67px;height: 61px;overflow: hidden;z-index: 999;top: 480px;left: 600px;cursor: pointer;}
+.main1 a img{width: 67px;height: 122px;}
+.main2{top: -185px;position: relative;overflow: hidden;z-index: 2;}
+.main2 img{width: 1366px;height: 853.75px;left: 0px;top: -247.375px;}
+.main2 h2{position: absolute;top: 5.583%;left: 0;width: 100%;text-align: center;}
+.main2 h2 img{width: 48.854%;max-width: 938px;width: 668px;height: 85px;}
+.up{position: absolute;top: 26px;left: 50%;left: 600px; display: block;width: 60px;height: 19px;
+	overflow: hidden;z-index: 999;cursor: pointer;}
+.up img{width: 60px;height: 39px;}
+.main2ul{position: absolute;top: 23.1667%;width: 100%;text-align: center;}
+.m2li{position: relative;display: inline-block;overflow: hidden;width: 336px;
+	 height: 505px;float: left;top:-30px;left: 200px;z-index: 500; }
+.m2lia{display: block;}
+.m2lia img{width: 320px;height: 490px;display: block;transition-duration: 0.4s;transition-delay:1s;transition-timing-function:ease-in;}
+.m2li1{position: relative;display: inline-block;overflow: hidden;width: 335px;
+	 height: 505px;float: left;top:-30px;left: 200px;z-index: 500;}
+.m2li1a{display: block;}
+.m2li1a img{width: 320px;height: 490px;display: block;transition-duration: 0.4s;transition-delay:1.3s;transition-timing-function:ease-in;}
+.m2li2{position: relative;display: inline-block;overflow: hidden;width: 335px;
+	 height: 505px;float: left;top:-30px;left: 200px;z-index: 500;}
+.m2li2a{display: block;}
+.m2li2a img{width: 320px;height: 490px;display: block;transition-duration:0.4s;transition-delay:1.6s;transition-timing-function:ease-in;}
+.stron{position: absolute;top: 30.848%;left: 6.589%;z-index: 2;display: block;width: 87.0155%;height: 25%;overflow: hidden;}
+.stron img{width: 292px;height: 177px;display: block;}

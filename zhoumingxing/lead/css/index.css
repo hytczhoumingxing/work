@@ -1,0 +1,15 @@
+*{list-style: none;list-style-type: none;}
+
+
+#tou{width:1333px;height: 150px;text-align: center;}
+#top{width:200px;height: 100px;border: 1px solid #bbb;border-radius: 5px;margin: 30px auto;cursor: pointer;text-align: center;background-color: red;}
+#ditc{width:420px;height: 30px;padding: 5px;margin: 20px auto;border-radius:3px; box-shadow: 1px 1px 3px #999; }
+#ditDateA{width:200px;height: 30px;float: left;}
+#ditTimeA{width:160px;height: 30px;float: right;}
+.dit{width: 20px;height: 30px;background-image: url("images/time.png");float: left;}
+.heng{background-position: 0 -300px;}
+.mao{background-position: 0 -330px;}
+#work1{ width:200px;height: 100px;border: 1px solid #bbb;border-radius: 5px;cursor: pointer;float: left;margin: 20px 0 0 20px;text-align: center;}
+.w1{width:140px; height: 50px; margin: 40px auto;text-decoration: none;}
+#back{width:50px; height: 50px;border: 1px solid #bbb;float: right;text-align: center; margin-top: 30px;}
+#back a{text-decoration: none;text-align: center;}

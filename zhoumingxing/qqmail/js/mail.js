@@ -1,0 +1,60 @@
+$(function(){
+  //标记已读邮件
+       $(".fgu").click(function(){ 
+             var c=$(this).attr("c");
+            if(c=="true")
+              { 
+               $(this).css("background",'url("css/images/mail.png") no-repeat -48px -160px');
+               $(this).attr("c","false");
+              }
+            else
+             {
+               $(this).css("background","");
+               $(this).attr("c","true"); 
+             }
+     });
+       //删除选中邮件
+       $(".dele").click(function(){
+          $(".choice").each(function(){
+              if($(this).is(':checked')==true)
+              {
+              $(this).parent().parent().parent().hide();
+              }
+          });
+      });
+         //全选
+     $(".ch1").click(function(){
+        var ifo=$(this).attr("isch");
+        if(ifo=="no")
+        {
+          $(".choice").each(function(){
+          $(this).prop("checked",true);
+          });
+          $(this).attr("isch","yes");
+        }
+        else{
+            $(".choice").each(function(){
+              $(this).prop("checked",false);
+              });
+              $(this).attr("isch","no");
+            }
+    });
+});
+      //全选
+      /*checkit=true;
+      function SelectAll()
+      {
+        aa=document.getElementsByName("radiotex");     
+        if(checkit)     
+        {     
+         for(i=0;i<aa.length;i++)     
+         aa.item(i).checked=true;     
+         checkit=false;     
+        }     
+       else     
+        {     
+           for(i=0;i<aa.length;i++)     
+           aa.item(i).checked=false;     
+           checkit=true;     
+        }     
+       } */

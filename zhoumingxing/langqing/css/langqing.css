@@ -1,0 +1,58 @@
+*{margin: 0;padding: 0;}
+ul ,li{list-style: none;list-style-type: none;}
+
+.main{width: 100%;background: url("css/images/main.png") repeat-x 0 -2340px;}
+.toplogo{width: 960px;height: 106px;margin: 0 auto;position: relative;z-index: 99999;}
+header h2{width: 221px;height: 58px;display: block;}
+header h2 a{width: 221px;height: 58px;display: block;position: relative;left: 29px;top: 27px;
+background: url("images/logo1.png") no-repeat 0 0;
+outline: 0;color: #002c50;}
+header h2 a img{color: transparent;font-size: 0;vertical-align: middle;}
+header{background: #001f3d url("images/14.png") repeat-x 0 -2340px;height: 106px;}
+
+.help{position: absolute; right:34px;top: 0;}
+.help li a{font-size: 11px;color: #001636;text-decoration: none;font-family: 'Lucida Grande',Arial,Helvetica,sans-serif;
+           float: left;margin-right: 2px;height: 21px;line-height: 20px;background: #fff;padding: 0 11px;outline: 0;overflow: hidden;}
+.help li a:hover{text-decoration: underline;}
+.help li{display: inline;}
+#content{position: absolute;left: 352px;top: 65px;}
+#content ul li{display: inline;padding-bottom: 13px;float: left;}
+.lia{font-size: 16px;color: #fff;text-transform: uppercase;text-decoration: none;font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+     letter-spacing: .7px;text-shadow: 0 0 -1px #FFF,0px 0 -10px #FFF;display: block;padding-left: 15px;padding-right: 15px;}
+
+.bb{display: none; position: absolute;z-index: 99999;left: -346px;top: 35px;width: 948px;border-top: 4px solid #fff;padding-top: 19px;background: url("images/sep.gif") repeat-x 0 100%;}
+.top{width: 237px;height: auto;padding: 0;margin: 0;padding-bottom: 30px;margin-bottom: 10px;float: left;clear: none;background-position: 0 0;background-repeat: no-repeat;}
+.top h4{font-size: 16px;text-transform: uppercase;font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+       font-weight: normal;margin-top: 0;border-top: 1px solid #bfbfbf;padding-top: 19px;margin-bottom: 12px;letter-spacing: -0.3px;padding-left: 9px;}
+.top ul{border: 0;position: static;left: 0;width: auto;padding: 0;background: 0;}
+.top ul li{border: 0;padding: 0;margin: 0;display: block;float: none;clear: both;margin-bottom: 3px;padding-left: 9px;}li 
+.top ul li a{text-decoration: none;font-size: 12px;font-family: 'Lucida Grande',Arial,Helvetica,sans-serif;font-weight: normal;
+            letter-spacing: 0;line-height: 13px;vertical-align: top;display: inline;padding-left: 0;padding-right: 0;color: #666;}
+.top ul li a:hover{text-decoration: underline;}    
+
+
+.slider{height: 100%;position: absolute;width: 100%;z-index: 5000;} 
+#sliderL{left: 0;background:url("images/prev.png");}
+
+.image{background-image:url("images/1.jpg");display: block;position: relative;height: 600px;}
+.next{position: absolute;right: 30;top: 150; background-image: url("images/next.png"); height: 91;width: 29px;}
+.left{position: absolute;background-image: url("images/prev.png"); height: 91;width: 29px;left: 30;top: 150;}
+
+.news{height: 30px;width: 150px;border: 1px solid #666;left: 400px;top: 450px;position:absolute;color: #afafaf;display: block;}
+.news a{font-weight: bold;font-size: 16px;text-decoration: none;text-align: center;font-family: 'Open Sans',Arial,Helvetica,sans-serif;color: #ffffff;display: block;padding-top: 3px;}
+.hd{height: 30px;width: 150px;border: 1px solid #666;left: 900px;top: 450px;position: absolute;color: #fff;display: block;}
+.hd a{font-weight: bold; font-size: 16px;text-decoration: none;text-align: center;font-family: 'Open Sans',Arial,Helvetica,sans-serif;color: #fff;display: block;padding-top: 3px;}
+.newsp{height: 198px;width: 240px;left: 350px;top: 490px;position: absolute;display: block;display: none;}
+.hdp{display:none; height: 198px;width: 240px;left: 850px;top: 490px;position: absolute;}
+.newsp span{font-size: 12px;font-family: 'Open Sans',Arial,Helvetica,sans-serif;}
+.hdp span{font-size: 12px;font-family: 'Open Sans',Arial,Helvetica,sans-serif;}
+
+.fspan{margin-left: 60px;margin-top: 10px;float: left;color: #8d9091;
+font-family: 'Lucida Grande',Arial,Helvetica,sans-serif;
+letter-spacing:2px;font-size: 10px;}
+.footer{float: right;display: inline;margin-top: 10px;margin-right: 100px;}
+
+.footer a{font-family: 'Lucida Grande',Arial,Helvetica,sans-serif;
+letter-spacing:2px;font-size: 10px;text-decoration: none;color: #8d9091;display: block;float: left;}
+.footer span{display: block;float: left;font-size: 8px;color: #8d9091;}
+.footer a:hover{text-decoration: underline;}

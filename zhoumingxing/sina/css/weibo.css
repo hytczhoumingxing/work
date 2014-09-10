@@ -1,0 +1,106 @@
+*{margin: 0;padding: 0;}
+ul li{list-style: none;list-style-type: none;}
+
+
+.by{background-repeat: repeat-x;background-position: 0 top;background-image: url("images/bg.png");background-color: #C8E1F0;}
+.all{background-repeat: no-repeat;background-position: center top;background-image: url("images/big.png");}
+.top{width: 900px;margin: 0 auto;padding: 10px 0;}
+.logo{width: 130px;height: 40px;background: url("images/logo.png") no-repeat;}
+.main{width: 900px;margin: 0 auto ;color: #fff;}
+.mainimg{height: 200px;overflow: hidden;background-image: url("images/gg.jpg");}
+.maintext{border-top: 2px solid #f62638;background-image: url("images/main_bg.png");height: 400px;}
+.leftbox{float: left;width: 567px;padding-right: 3px;background-image: url("images/left.png");
+         background-position: right center;color: #333;}
+.zc{padding: 17px 0 17px 30px;border-bottom: 1px solid #e6e6e6;line-height: 32px;font-size: 26px;
+    font-family: "Microsoft Yahei";font-style: italic;background-color: #fafafa;}
+.ljzc{border: 1px solid #e64141;border-radius: 5px;box-shadow: 0 1px rgba(0,0,0,.3);
+       text-decoration: none;margin-left: 24px;font-style: normal;display: inline-block;cursor: pointer;}
+.ljzc span{background: #e64141;font-size: 22px;text-align: center;font-family: "Microsoft yahei";width: 143px;
+       height: 36px;color: #fff;display: inline-block;line-height: 36px;}
+.fx{padding: 15px 6px 30px 10px;background: #fff;min-height: 270px;}
+.rightbox{float: right;width: 271px;padding: 0 0 0 59px;background: #fff;}
+.denglu{width: 250px;margin: 29px 0 0;}
+.header{position: relative;padding-bottom: 6px;line-height: 30px;}
+.header span{color: #666;font-size: 10px;}
+.ha{font-size: 12px;text-decoration: none;color: #666;cursor:pointer;}
+.ha1{font-size: 12px;text-decoration: none;color:#0a8cd2;cursor:pointer;}
+.ha1:hover{text-decoration: underline;}
+
+
+.text{}
+.t1in{width: 171px;height: 28px;padding: 0 0 0 37px;border: 1px solid #ccc;border-radius: 2px;
+color: #808080;vertical-align: middle;overflow: hidden;background-repeat: no-repeat;
+background-image: url("images/form_login.png");}
+.t1in input{border: 1px solid #ccc;border-radius: 2px;width: 171px;border-width: 0;background: 0;
+height: 28px;padding: 0 0 0 2px;vertical-align: middle;color: #808080;box-shadow: 0 0 #fff;}
+.t2in{width: 171px;height: 28px;padding: 0 0 0 37px;border: 1px solid #ccc;border-radius: 2px;
+color: #808080;vertical-align: middle;overflow: hidden;background-repeat: no-repeat;
+background-image: url("images/form_login.png");background-position: 0 -50px; margin-top: 15px;}
+.t2in input{border: 1px solid #ccc;border-radius: 2px;width: 171px;border-width: 0;background: 0;
+height: 28px;padding: 0 0 0 2px;vertical-align: middle;color: #808080;box-shadow: 0 0 #fff;overflow: hidden;}
+.t3{color: #666;}
+.t3 label{cursor: default;font-size: 12px;margin-top: 10px;float: left;}
+.xc{margin-top: 10px;height: 5px;}
+.t3 a{color: #0a8cd2;font-size: 10px;float: right;display: block;margin-top: 10px;margin-right: 37px;text-decoration: none;}
+.t3 a:hover{text-decoration: underline;}
+.t3in{outline-style: none;vertical-align: -2px;margin-right: 3px;}
+.t4a{margin-top: 20px; border-width: 1px;border-style: solid;border-color: #ff9b01;background-color: #ffa00a;color: #fff;
+border-radius: 2px;display: inline-block;overflow: hidden;vertical-align: middle;cursor: pointer;text-decoration: none;}
+.t4a span{display: inline-block;padding: 5px 79px 0 78px;display: block;min-width: 49px;height: 26px;text-align: center;}
+.t5{margin-top: 8px;color: #666;font-size: 13px;font-family: Arial,Helvetica,sans-serif;}
+.t5a{font-size: 12px;text-decoration: none;color: #0a8cd2;}
+
+.sm{color: #666;display: block;font-size: 12px;}
+.sm a{text-decoration: none;color: #666;}
+.sm a:hover{text-decoration: underline;color: #0a8cd2;}
+.text1{display: block;display: none;}
+.t1img{width: 180px;height: 180px;margin: 0 0 7px -2px;}
+
+.text3{display: none;}
+.tips{width: 210px;padding-bottom: 15px;}
+.warn{border: 1px solid #BED2ED;background: #F7F9FF;line-height: 12px;color: #666;padding: 5px 7px 4px 10px;}
+.warn p{font-size: 12px;display: inline;line-height: 18px;text-align:center;padding-left: 15px;}
+.wenben{padding-bottom: 15px;}
+.inp{padding-left: 5px;width: 210px;border: 1px solid #ccc;border-radius: 2px;height: 28px;padding: 0 0 0 2px;vertical-align: middle;
+color: #808080;}
+.dxyzm{padding-bottom: 10px;width: 250px;height: 32px;}
+.dxb{display: inline-block;border-width: 1px;border-style: solid;border-radius: 2px;overflow: hidden;height: 18px;color: #333333;
+     vertical-align: middle;cursor: pointer;border-color: #d9d9d9;background-color: #f2f2f2;float: left;
+     font-size: 12px;text-decoration: none;width: 118px;padding: 0;text-align: center;padding: 6px;}
+.yzm{width: 68px;margin-left: 13px;padding-left: 5px;border: 1px solid #ccc;border-radius: 2px;height: 28px;
+     padding: 0 0 0 2px;vertical-align: middle;color: #333333;float: left;padding: 1px;}
+.dxb:hover{background: rgb(255,184,71);color: #fff;} 
+
+.wj{width: 300px;height: 20px;text-align: center;}
+.lab{color:#333333; float: left;font-size: 12px;}
+.wj1{vertical-align: -2px;margin-right: 3px;-webkit-appearance: checkbox;box-sizing:border-box;float: left;color: #333333;}
+.wj span{color: #666;font-size: 12px;display: block;float: left;}
+.wj a{float: left;display: block;font-size: 12px;text-decoration: none;margin-left: 70px;color: #0a8cd2;}
+.wj a:hover{text-decoration: underline;}
+.ddl a{margin-top: 5px; border-width: 1px;border-style: solid;border-color: #ff9b01;background-color: #ffa00a;color: #fff;
+     border-radius: 2px;display: inline-block;overflow: hidden;vertical-align: middle;cursor: pointer;text-decoration: none;}
+.ddl a span{display: inline-block;padding: 5px 79px 0 78px;display: block;min-width: 49px;height: 26px;text-align: center;}
+
+.taobao{width: 210px;margin-top: 15px;}
+.taobao a{display: inline-block;zoom: 1;height: 20px;line-height: 20px;padding-left: 20px;
+background: url("images/taobao.png") no-repeat 0 50%;font-size: 12px;color: #0a8cd2;text-decoration: none; }
+.taobao a:hover{text-decoration: underline;}
+.other{width: 210px;margin-top: 20px;}
+.othera{font-size: 12px;color: #333333;text-decoration: none;padding-left: 20px;}
+.othera:hover{text-decoration: underline;color:  #0a8cd2;}
+.otheras{font-size: 12px;color:  #0a8cd2;text-decoration: none;padding-left: 30px;cursor: pointer;}
+.otheras:hover{text-decoration: underline;}
+
+.qita{margin-top: 20px;margin-left: 10px;margin-bottom: 5px;display: none;}
+.qita li{display: inline;font-size: 12px;text-decoration: none;padding-left: 10px;}
+.qita li a{text-decoration: none;color: #333333;}
+.qita li a:hover{text-decoration:underline;color:  #0a8cd2;}
+
+.footer{padding: 15px 30px 30px;text-align: center;}
+.system ul li{display: inline;margin-right: 20px;}
+.system ul li a{font-size: 14px;text-decoration: none;color: #333333;}
+.system ul li a:hover{text-decoration: underline;color:  #0a8cd2;}
+.guanyu a{font-size: 12px;text-decoration: none;color: #333333;}
+.guanyu span{font-size: 12px;}
+.guanyu a:hover{text-decoration:underline;color:  #0a8cd2;}
+.tp{font-size: 12px;}

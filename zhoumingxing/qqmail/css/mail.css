@@ -1,0 +1,103 @@
+*{margin: 0;padding: 0;}
+ul li{list-style: none;}
+
+
+.head{height: 66px;overflow: hidden;display: block;}
+.head1{height: 66px;}
+.logo{position: absolute;left: 5px;z-index: 6;}
+.logpa{width: 215px;height: 60px;display: block;float: left;}
+.swith{display: block;float: left;margin: 12px 0 0 0;line-height: 18px;}
+.swith1{width: 193px;height: 37px;}
+.sws1{font-weight: bold;font-size: 12px;}
+.sws2{font-size: 13px;font-family: "lucida Grande",Verdana;margin-left: -7px;}
+.swa{width: 132px;height: 14px;}
+.swaa{font-size: 12px;text-decoration: none;float: left;display: block;height: 14px;width:50px;color: #1e5494;}
+.swaa1{font-size: 12px;text-decoration: none;float: left;display: block;height: 14px;width:30px;color: #1e5494;margin-left: 3px;}
+.swaa2{font-size: 12px;text-decoration: none;float: left;display: block;height: 14px;width:30px;color: #1e5494;margin-left: 2px;}
+.swa span{display: block;float: left;font-size: 12px;}
+.swaa:hover{text-decoration:underline;}
+.swaa1:hover{text-decoration:underline;}
+.swaa2:hover{text-decoration:underline;}
+.topbg{float: right;height: 66px;background:url("images/topbg.jpg") top right;width: 486px;background-repeat: no-repeat;}
+.topbg1{display: block;float: right;margin-top: 5px;}
+.topbg1 span{float: left;font-size: 12px;}
+.topbg2{width: 286px;height: 28px;float: right;margin-top: 37px;margin-right: -160px;}
+.tb2in{background: #fff;width: 100%;height: 18px;line-height: 18px;font-size: 12px;padding: 0;
+	   border: 0;outline: none;color: rgb(160, 160, 160);float: left;}
+.topbg2s{border: 1px solid #BBB;background: #FFF;padding: 1px 21px;
+         height: 18px;line-height: 18px;margin: 3px 5px 3px 2px;border-radius: 2px;box-shadow: 0 1px 1px #E6E6E6 inset;}
+.topbg2sp{width: 18px;height: 16px;display: inline-block;vertical-align: middle;background: url("images/sm.png") no-repeat;
+          background-position: -3px -3px;float: left;margin-left: -22px;}  
+.topbg2sp1{width: 18px;height: 16px;display: inline-block;vertical-align: middle;float: right;margin-top: 3px;
+           background: url("images/sm.png") no-repeat;background-position: -27px -4px;position: relative;margin-right: -22px;}
+.topline{position: absolute;top: 66px;left: 0;right: 0;height: 11px;} 
+.toplines{width: auto;border-left: 8px solid #fff;height: 11px;border-right: 0;
+	      background: url("images/nav.gif") 0 -115px repeat-x;}
+.toplinleft{background: url("images/pa.gif")-184px 0;float: left;width: 184px;height: 22px;display: block;} 
+.fbbod{background: #89b5e9;border-left: 8px solid #fff;border-right: 1px solid #78a3d2;
+       position: absolute;top: 77px;width: 179px;bottom: 0;}
+.newsk{position: absolute;top: 77px;width: 179px;left: 8px;bottom: 0;border-left: 0 none;height: auto;}
+.newsk1{right: 0;z-index: 3;} 
+.newsk1ul{width: 179px;height: 107px;margin: 0;background: url("images/nav.gif");background-repeat: no-repeat;}
+.write{margin: 0 10px 0 11px;padding: 2px 0 0 0;width: 179px;height: 24px;}
+.fsa{line-height: 24px;padding-left: 41px;color: #1e5494;font-weight: bold;text-decoration: none; float: left;display: block;margin-left: -38px;}
+.fsa1{background: url("images/mail.png")0 -1px no-repeat;width: 20px;height: 20px;display: block;
+      float: left;margin-left: 20px;margin-top: 3px;}
+.get{margin: 0 10px 0 11px;padding: 2px 0 0 0;height: 24px;line-height: 24px;margin-top: 4px;} 
+.fsa2{background: url("images/mail.png")0 -33px no-repeat;width: 20px;height: 20px;display: block;
+      float: left;margin-left: 20px;margin-top: 3px;}
+.fsa3{background: url("images/mail.png")0 -63px no-repeat;width: 20px;height: 20px;display: block;
+      float: left;margin-left: 20px;margin-top: 3px;} 
+.friends{margin: 0 10px 0 11px;padding: 2px 0 0 0;height: 24px;line-height: 24px;margin-top: 4px;}
+.newsmid{background: url("images/topline.gif")repeat-y;position: absolute;top: 107px;left: 0;
+         right: 0;bottom: 13px;overflow: hidden;height: auto;} 
+.newsmida{text-decoration: none;color: #1e5494;display: block;margin-left: 35px;margin-bottom: 10px;font-size: 12px;}
+.newsmidas{text-decoration: none;color: #1e5494;display: block;margin-left: 35px;margin-bottom: 10px;font-size: 12px;font-weight: bold;}
+.newsmida1{text-decoration: none;color: #1e5494;display: block;text-align: center; font-size: 12px;width: 160px;
+           height: 20px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;line-height: 20px;margin-left: -20px;margin-bottom: 10px;} 
+
+.ha{text-decoration: none;color: #1e5494;display: block;font-size: 12px;float: left;margin-left: 5px;} 
+.hsp{display: block;float: left;font-size: 12px;} 
+.mh{margin-left: 30px;width: 100px;height: 20px;margin-bottom: 8px;}
+.newsmidap{text-decoration: none;color: #1e5494;display: block;font-size: 12px;float: left;margin-left: 5px;float: left;}
+.plp{background: url("images/mail.png")no-repeat;background-position: 0 -190px;width: 10px;height: 18px;display: block;float: left;margin-left: 5px;} 
+.list{width: 1157px;height: 816px;position: absolute;left: 190px;} 
+.listt{width: 1138px;height: 17px;margin-top: 15px;margin-left: 5px;}
+.listta{text-decoration: none;color: #1e5494;display: block;font-weight: bold;margin-left: 10px;font-size: 14px;float: left;}
+.list span{display: block;float: left;font-size: 13px;color: #666;} 
+.menu{width: 1146px;height: 39px;background-color: #c1d9f3;margin-top: 3px;} 
+.button{width: 504px;height: 39px;line-height: 39px;padding-top: 10px;} 
+.buta1{cursor: pointer; height: 22px;text-align: center;border-radius: 3px;text-decoration: none;border: 1px solid #888;margin-left: 5px;
+ 	   width: 60px;font-size: 12px;color: #000000;line-height: 22px;display: block;background-color: #fff;float: left;}
+.buta2{height: 22px;text-align: center;border-radius: 3px;text-decoration: none;border: 1px solid #888;margin-left: 5px;
+ 	   width: 80px;font-size: 12px;color: #000000;line-height: 22px;display: block;background-color: #fff;float: left;}
+.table{width: 1146px;height: 22px;border-top: 1px solid #fff;color: #3b3b3b;padding-top: 6px;padding-left: 6px;border-bottom: 1px solid #c1c8d2;
+       background-color: #f2f4f6;}
+.td1{display: block;margin-top: 4px;margin-left: 4px;}
+.td2{width: 6px;font-size: 1px;padding: 0;background: url("images/mail.png") -128px 0 repeat-y;margin-left: 6px;display: block;}
+.td3in{border: none;padding: 0;margin: 0;
+       background: url("images/mail.png") 1px -82px no-repeat;width: 26px;height: 16px;} 
+.td4{width: 130px;}	   
+.td4 a{font-family: "lucida Grande",Verdana;font-size: 12px;text-decoration: none;color: #000000;display: block;margin-left: 6px;}
+.td4 a:hover{text-decoration: underline;}
+.td5{width: 800px;}	   
+.td5 a{font-family: "lucida Grande",Verdana;font-size: 12px;text-decoration: none;color: #000000;display: block;margin-left: 6px;} 
+.td5 a:hover{text-decoration: underline;}	
+.tbtalk{display: block;font-size: 12px;font-weight: normal;text-decoration: none;clear: both;border: 1px solid #a7c5e2;
+        border-left: none;border-right: none;padding: 8px 0px 3px 9px;border-bottom-width: 2px;border-top: none;height: 25px;}
+.tbtalk a{color: #1e5494;font-size: 14px;text-decoration: none;font-weight: bold;display: block;margin-top: 10px;}
+.tabelistta{width: 1146px;height: 24px;height: 24px;border-bottom: 1px solid #e3e6eb;font-weight: normal;clear: both;}
+.tabtd1{display: block;vertical-align: top;padding: 4px 0 1px 8px;width: 24px;}
+.ci{width: 50px;}
+.ciz{width: 9px;margin-top: 2px;float: left;} 
+.cir{width: 18px;height: 16px;overflow: hidden;cursor: pointer;float: left;}
+.Rr{background: url("images/mail.png") -48px 0px no-repeat;}
+.cij{width: 12px;height: 12px;overflow: hidden;margin-top: 3px;} 
+.Ju{background: url("images/mail.png") -65px 0 no-repeat;cursor: pointer;float: left;}
+.t1{width: 117px;padding-right: 12px;font-size: 12px;cursor: pointer;}   
+.tf{text-overflow: ellipsis;white-space: nowrap;overflow: hidden;} 
+.gt{color: #A0A0A0;width: 806px;}
+.getu{font-weight: bold;font-size: 12px;color: #000;cursor: pointer;text-decoration: none;}
+.time{font-size: 12px;color: #000;font-weight: bold;width: 100px;} 
+.fg{width: 20px;} 
+.fgu{width: 14px;height: 14px;background: url("images/mail.png") no-repeat -32px -160px;}              
