@@ -37,8 +37,12 @@ $(function(){
     
 	});
 	
-	$(".cxli2").mouseover(function(){
-		 lr();
+	$(".cxtitle").mouseover(function(){
+		 var N=$(this).attr("titleID");
+		 $(".leftCX[contentID!="+N+"]").hide();
+		 $(".leftCX[contentID="+N+"]").show();
+		 $(".cxtitle").removeClass("yellow");
+		 $(this).addClass("yellow");
 	});
 	
 }); var time;

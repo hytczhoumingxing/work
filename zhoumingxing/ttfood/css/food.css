@@ -95,7 +95,7 @@ body{font: 12px/160% Arial,Helvetica,Tahoma,\5b8b\4f53;background-color: #ebebeb
             color: #FFFFFF;font-weight: bold;float: left;} 
 .cxmainul li a{color: #fff;text-decoration: none;}
 .cxmainul li a:hover{text-decoration: underline;}
-.cxtitle{background: url("images/icbg.gif") bottom center;}
+.yellow{background: url("images/icbg.gif") bottom center;}
 .admin{width: 960px;margin-top: 5px;overflow: auto;}
 .adleft{width: 200px;float: left;padding: 5px;}
 .adleft h2{font-size: 14px;color: #666;}
@@ -154,6 +154,7 @@ body{font: 12px/160% Arial,Helvetica,Tahoma,\5b8b\4f53;background-color: #ebebeb
 .leftCP ul{float: right;width: 160px;}
 .leftCP ul li{width: 150px;text-indent: 10px;float: left;}
 .leftCX{width: 650px;float: left;padding: 10px 10px 0px 20px;overflow: auto;display: none;}
+#leftCX1{display: block;}
 .leftCX ul{width: 100%;border-bottom: 1px dotted #CCCCCC;margin-bottom: 8px;margin-top: 8px;overflow: auto;}
 .leftCX ul li{width: 130px;float: left;line-height: 20px;height: 20px;font-size: 14px;}
 .leftCX ul li a{color: #666;text-decoration: none;}
