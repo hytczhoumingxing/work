@@ -10,4 +10,30 @@ body{width: 1002px;margin: 0 auto;background: url("images/b1.jpg") ;}
 .menu ul li{float: left;}
 .menu ul li a{display: block;float: left;height: 56px;text-decoration: none;text-align: center;width: 90px;margin-right: 5px;
  				color: #b6b3a8;font: 12px/38px 'SimSun',Arial,Sans-Serif;background: url("images/menu.jpg")0px 0px no-repeat;}
-.m{height: 200px;background-image: url("");} 				
+.m{height: 170px;background-image: url("images/a.gif");} 	
+.time{width: 980px; height: 30px;border-radius: 4px 4px 4px 4px;margin: 0 auto;margin-top: 5px;}
+.pos{padding: 5px 15px 5px 25px;}	
+#position{font-size: 12px;}		
+#position a{color: #000;text-decoration: none;}
+#fr{float: right;}
+.content{margin-top: 8px;}
+.cleft{width: 202px;float: left;}
+.cleft1{width: 200px;border: 1px solid #99C4D5;margin-left: 5px;}
+.title{width: 200px;height: 30px;background-color: rgb(223,241,242);}
+.title h3{line-height: 30px;text-align: center;}
+.text{line-height: 180%; border-top: none;background: #FFFFFF;font-size: 13px;}
+.cleft2{width: 200px;border: 1px solid #99C4D5;margin-left: 5px;margin-top: 15px;}
+.text1{border-top: none;background: #FFFFFF;font-size: 13px;}
+.inp{border: #99C4D5 1px solid;padding: 2px;color: #666666;margin-left: 5px;margin-top: 5px;}
+select{margin-top: 8px;margin-left: 5px;}
+.sbm{margin-left: 10px;margin-top: 8px;}
+.sel{width: 200px;display: block;}
+h4 a{text-decoration: none;color: #000;margin-left: 10px;}
+h4 a:hover{text-decoration: underline;}
+.cright{width: 750px;float: right;}
+.rtt{width:750px;height: 30px;background-color: rgb(223,241,242);}
+.rtt h3{line-height: 30px;}
+.mainbody{border: #99C4D5 1px solid;border-top: none;background: #FFFFFF;padding: 10px;margin: 0 0 10px;}
+#elite{height: 180px;overflow: hidden;}
+.thumb{padding: 6px;}
+.thumb div{width: 90%;height: 26px;overflow: hidden;line-height: 26px;font-size: 13px;margin: 6px 0 6px 0;}
